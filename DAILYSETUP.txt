@@ -1,0 +1,36 @@
+SBI CARD :-->1120.
+
+
+17075.10 -->shoy
+
+doubts
+1) reliance covered call why both loss
+
+see video covered call .
+
+GAPUP/DOWN
+1) Gapup 1st candle red means short. below 1st 5min candle shot
+2) Gap down 1st candle green Go long  5min high break
+
+
+
+
+expiry day:-->
+call -- put open the strike price open=high buy that (after 5 min)
+
+
+
+FIBANOCCI live market wriitng: 
+
+when u draw fbncci if it crosses 0.618 go with trend 
+swing high - Swing low  when u draw u get Short Target(0.618/0.5)
+
+swing low - Swing high  when u draw u get long target(0.618/0.5)
+5MINH/L
+
+
+THURSDAY EXPIRY RULES :-->
+9.15-1230PM H-L direction of break follow
+9.25 check ATM strike price  call/put --> if any one of call/put open/high is same then highest probablity that towards matching option.
+dont expect rally  especially  monthly expiry.
+3 pm huge rally expected (hero will become zero)
